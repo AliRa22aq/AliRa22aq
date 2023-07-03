@@ -15,17 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=AliRa22aq&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-### Hi there 👋
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-<!--
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
---!>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **AliRa22aq/AliRa22aq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
