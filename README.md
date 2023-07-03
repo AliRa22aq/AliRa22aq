@@ -16,7 +16,8 @@
 
 <div id="badges">
 <!--   <img src="https://komarev.com/ghpvc/AliRa22aq&style=flat-square&color=blue" alt=""/> -->
-  ![](https://komarev.com/ghpvc/?username=AliRa22aq&color=green)
+<!--   ![](https://komarev.com/ghpvc/?username=AliRa22aq&color=green) -->
+  <img src="https://komarev.com/ghpvc/?username=AliRa22aq&style=flat-square&color=blue" alt=""/>
 
 </div>
 
