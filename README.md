@@ -29,9 +29,9 @@
 ### :man_technologist: About Me :
 🚀 Full-Stack Software Engineer | Passionate about building the future of technology! 🌟
 
-- 💻 Hey there! I'm Ali, a self taught and ambitious software engineer ready to conquer the coding universe. With a burning passion for innovation and problem-solving, I thrive on turning ideas into reality through elegant and efficient code.
+- 💻 Hey there! I'm Ali, a self-taught and ambitious software engineer ready to conquer the coding universe. With a burning passion for innovation and problem-solving, I thrive on turning ideas into reality through elegant and efficient code.
 
-- 🌈 My skillset spans across the entire software development stack, from crafting intuitive user interfaces with the latest front-end frameworks to architecting robust back-end systems. I'm a lifelong learner, constantly exploring new technologies and staying up-to-date with the ever-evolving industry trends.
+- 🌈 My skillset spans the entire software development stack, from crafting intuitive user interfaces with the latest front-end frameworks to architecting robust back-end systems. I'm a lifelong learner, constantly exploring new technologies and staying up-to-date with the ever-evolving industry trends.
 
 - 🌟 I believe in the power of collaboration and have a strong knack for working in agile teams. I embrace challenges with open arms and approach them with creativity and determination. By leveraging my strong analytical skills and attention to detail, I consistently deliver high-quality solutions that exceed expectations.
 
@@ -50,7 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" color="white" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
